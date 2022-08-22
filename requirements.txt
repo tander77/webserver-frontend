@@ -1,0 +1,7 @@
+Flask==0.12
+
+flask-script
+flask-bootstrap
+flask-wtf
+PyMongo
+gunicorn
